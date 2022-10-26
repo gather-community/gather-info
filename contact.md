@@ -33,7 +33,7 @@ Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries.
   </div>
 </div>
 <div class="team-member">
-  <img src="/assets/img/team/elph.png" width="500" height="600" alt="Elph Morgan photo" />
+  <img src="/assets/img/team/elph.jpg" width="500" height="600" alt="Elph Morgan photo" />
   <div>
     <strong>Elph Morgan</strong><br/>
     Support, Training
