@@ -43,13 +43,13 @@ New feature development and bug fixing will always be needed for any software pr
 
 Reliable system support requires having staff on call who are familiar with the system. Again, relying solely on volunteer efforts here is risky.
 
-Gather is transitioning to a [multi-stakeholder cooperative](http://cultivate.coop/wiki/Multi-stakeholder_cooperatives) by the end of 2022. One class of owners are the workers who develop the software, provide customer support. The other class of owners are the communities who use the software. Please get in touch if you would like to work with us!
+Gather became a worker owned cooperative at the end of 2022. In the future, we are considering transitioning to a [multi-stakeholder cooperative](http://cultivate.coop/wiki/Multi-stakeholder_cooperatives). One class of owners would be the workers who develop the software, provide customer support. The other class of owners would be the communities who use the software. Please get in touch if you would like to work with us!
 
 Constituting Gather as a cooperative ensures its continued accountability to those it serves, rather than investors or shareholders, as the system grows.
 
 ### Where Does The Money Go?
 
-Hosting costs represent the primary _material_ cost of the system. Funds may also eventually support advertising and travel costs for marketing purposes.
+Hosting costs, accounting and legal fees represent the primary _material_ cost of the system. Funds may also eventually support advertising and travel costs for marketing purposes.
 
 Supporting staff time represents the lion's share of the system's cost. Staff time is spent on the following tasks:
 
@@ -64,4 +64,3 @@ Supporting staff time represents the lion's share of the system's cost. Staff ti
 * And more...
 
 The more funds that can be raised to defray these costs, the faster development can proceed, and the more community needs can be met.
-
