@@ -43,7 +43,7 @@ New feature development and bug fixing will always be needed for any software pr
 
 Reliable system support requires having staff on call who are familiar with the system. Again, relying solely on volunteer efforts here is risky.
 
-Gather became a worker owned cooperative at the end of 2022. In the future, we are considering transitioning to a [multi-stakeholder cooperative](http://cultivate.coop/wiki/Multi-stakeholder_cooperatives). One class of owners would be the workers who develop the software, provide customer support. The other class of owners would be the communities who use the software. Please get in touch if you would like to work with us!
+Gather is actively maintained and supported by CommunitySoft Cooperative, which became a worker owned cooperative at the end of 2022. In the future, we are considering transitioning to a [multi-stakeholder cooperative](http://cultivate.coop/wiki/Multi-stakeholder_cooperatives). One class of owners would be the workers who develop the software, provide customer support. The other class of owners would be the communities who use the software. Please get in touch if you would like to work with us!
 
 Constituting Gather as a cooperative ensures its continued accountability to those it serves, rather than investors or shareholders, as the system grows.
 
