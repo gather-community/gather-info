@@ -15,7 +15,7 @@ We recognize documentation is necessary, especially for some areas of the system
 
 #### Is there a venue where we can discuss Gather with other users?
 
-There will be very soon. We have plans to set up a [Discourse](https://discourse.org) forum for the community within the next few weeks.
+There is! Everyone who has access to Gather has access to our [support forum](https://support.forum.gather.coop). Please introduce yourself there and feel free to post technical questions and enhancement requests.
 
 #### Where do I report bugs or things that don't seem to be working right?
 
