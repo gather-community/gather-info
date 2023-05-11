@@ -39,3 +39,5 @@ Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries.
     Support, Training
   </div>
 </div>
+
+Gather is maintained by CommunitySoft Cooperative, a worker owned cooperative headquartered in Wisconsin.
