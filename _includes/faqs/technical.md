@@ -27,7 +27,7 @@ See the [planned feature roadmap](/roadmap) for what we have in store. If your i
 
 #### Where is our data?
 
-Currently, it is on a server at Amazon's Virgina data center. We have a plan to move it to another cloud provider, Digital Ocean, whose servers are in New York.
+Our data is stored at Digital Ocean, whose servers are in New York.
 
 #### What about privacy? Is our data shared with other communities using Gather?
 
