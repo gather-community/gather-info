@@ -35,12 +35,12 @@
 12. How is it different from My Drive?
   A Shared Drive is different in that there are different levels of permissions and management granted to members of a shared drive. Items in a shared drive are owned by the organization (your community) and can be shared with staff that are not members of the drive who are considered to be guests.
 
-13. What are the membership levels
-  **Content Manager** - can add/remove content from shared drive but can not add/remove people.
-  **Contributor** - Can add/edit content.
-  **Commenter** - Can not add/edit content. Can only comment.
-  **Viewer** - can only view.
-  **Guest** - a non-member of a shared drive with access to particular files/folders. Guests can have permissions that range from content manager, contributor, commenter, or viewer.
+13. What are the membership levels?
+*   **Content Manager** - can add/remove content from shared drive but can not add/remove people.
+*  **Contributor** - Can add/edit content.
+*  **Commenter** - Can not add/edit content. Can only comment.
+*  **Viewer** - can only view.
+*  **Guest** - a non-member of a shared drive with access to particular files/folders. Guests can have permissions that range from content manager, contributor, commenter, or viewer.
 
   If you are a guest on a file/folder (NOT a shared drive) it will still show up in your shared with me folder. You can add a shortcut to your My Drive. If you are a member of a shared drive then you can access the shared drive via shared drives (not shared with me).
 
