@@ -7,7 +7,7 @@ Gather does a lot but it could do so much more. We've got big plans.
 (In rough order of priority)
 
 * Full event calendaring system, tightly integrated with meals, reservations, meetings, birthdays, etc.
-* Wiki attachments and Google Drive integration
+* Wiki attachments and Google Drive integration (see the [Google Drive FAQ](/google-drive-faq))
 * Decision-making and task support including issue tracking, decision archiving, and meeting planning
 
 ### Other Major Goals
