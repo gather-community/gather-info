@@ -33,7 +33,7 @@
 	- Yes, there are Google Drive apps for both Android and iOS devices, making it easy to access and edit your files on the go.
 
 12. How is it different from My Drive?
-  A Shared Drive is different in that there are different levels of permissions and management granted to members of a shared drive. Items in a shared drive are owned by the organization (your community) and can be shared with staff that are not members of the drive who are considered to be guests.
+	-  A Shared Drive is different in that there are different levels of permissions and management granted to members of a shared drive. Items in a shared drive are owned by the organization (your community) and can be shared with staff that are not members of the drive who are considered to be guests.
 
 13. What are the membership levels?
    *   **Content Manager** - can add/remove content from shared drive but can not add/remove people.
@@ -43,10 +43,10 @@
    *  **Guest** - a non-member of a shared drive with access to particular files/folders. Guests can have permissions that range from content manager, contributor, commenter, or viewer.
 
 14. What's the difference between guest and member access?
-   If you are a guest on a file/folder (NOT a shared drive) it will still show up in your shared with me folder. You can add a shortcut to your My Drive. If you are a member of a shared drive then you can access the shared drive via shared drives (not shared with me).
+	-   If you are a guest on a file/folder (NOT a shared drive) it will still show up in your shared with me folder. You can add a shortcut to your My Drive. If you are a member of a shared drive then you can access the shared drive via shared drives (not shared with me).
 
 15. What is Google Drive for Desktop?
-  Google Drive for Desktop is a desktop application that allows users to edit Google Drive stored files locally. If you edit files using Adobe and or Microsoft Office, then this would be the tool that you need.
+	-  Google Drive for Desktop is a desktop application that allows users to edit Google Drive stored files locally. If you edit files using Adobe and or Microsoft Office, then this would be the tool that you need.
 
   Important things to know using Google Drive for Desktop
   * Using Google Drive for Desktop, you do not need to download files out of the Google Drive web browser and reupload them after editing them.
