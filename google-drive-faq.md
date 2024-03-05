@@ -42,9 +42,10 @@
    *  **Viewer** - can only view.
    *  **Guest** - a non-member of a shared drive with access to particular files/folders. Guests can have permissions that range from content manager, contributor, commenter, or viewer.
 
+14. What's the difference between guest and member access?
    If you are a guest on a file/folder (NOT a shared drive) it will still show up in your shared with me folder. You can add a shortcut to your My Drive. If you are a member of a shared drive then you can access the shared drive via shared drives (not shared with me).
 
-14. What is Google Drive for Desktop?
+15. What is Google Drive for Desktop?
   Google Drive for Desktop is a desktop application that allows users to edit Google Drive stored files locally. If you edit files using Adobe and or Microsoft Office, then this would be the tool that you need.
 
   Important things to know using Google Drive for Desktop
