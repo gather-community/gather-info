@@ -1,6 +1,6 @@
 # Contact
 
-Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries.
+Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries. Support is available via [support.forum.gather.coop](https://support.forum.gather.coop).
 
 ## Team
 
