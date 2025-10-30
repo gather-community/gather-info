@@ -40,10 +40,10 @@ Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries. Sup
   </div>
 </div>
 <div class="team-member">
-  <img src="/assets/img/team/Marie2023.jpg" width="500" height="600" alt="Marie MacWhyte photo" />
+  <img src="/assets/img/team/Marie2023.png" width="500" height="600" alt="Marie MacWhyte photo" />
   <div>
     <strong>Marie MacWhyte</strong><br/>
-    Community Engagement & Support, based at Bellingham Cohousing in Washington State. Marie builds connections between Gather and cohousing communities—supporting coordinators, relaying feedback to developers, and helping new groups explore how Gather can enhance community life.
+    Community Engagement & Support, based at Bellingham Cohousing in Washington State. Marie builds connections between Gather and cohousing communities—supporting coordinators, relaying feedback to developers, and helping new groups explore how Gather can enhance community life.<br/>
   </div>
 </div>
 
